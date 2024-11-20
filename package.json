@@ -1,0 +1,25 @@
+{
+  "name": "article-content-creator",
+  "version": "0.1.0",
+  "private": true,
+  "author": "Daksh Dhama",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "cohere-ai": "^7.11.2",
+    "next": "14.2.5",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-icons": "^5.2.1"
+  },
+  "devDependencies": {
+    "eslint": "^8",
+    "eslint-config-next": "14.2.5",
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1"
+  }
+}
